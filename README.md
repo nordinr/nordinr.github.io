@@ -1,1 +1,0 @@
-# nordinr.github.io
