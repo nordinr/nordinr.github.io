@@ -16,21 +16,23 @@
     </div>
 </article> -->
 <script>
-    const quotes = [
-        { text: "Life is what happens when you're busy making other plans.", author: "John Lennon" },
-        { text: "The greatest glory in living lies not in never falling, but in rising every time we fall.", author: "Nelson Mandela" },
-        { text: "The way to get started is to quit talking and begin doing.", author: "Walt Disney" },
-        { text: "Your time is limited, so don't waste it living someone else's life.", author: "Steve Jobs" },
-        { text: "If life were predictable it would cease to be life, and be without flavor.", author: "Eleanor Roosevelt" },
-        { text: "hat which doesn't kill us makes us stronger.", author: "Friedrich Nietzsche" }
-    ];
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const quotes = [
+            { text: "Life is what happens when you're busy making other plans.", author: "John Lennon" },
+            { text: "The greatest glory in living lies not in never falling, but in rising every time we fall.", author: "Nelson Mandela" },
+            { text: "The way to get started is to quit talking and begin doing.", author: "Walt Disney" },
+            { text: "Your time is limited, so don't waste it living someone else's life.", author: "Steve Jobs" },
+            { text: "If life were predictable it would cease to be life, and be without flavor.", author: "Eleanor Roosevelt" },
+            { text: "That which doesn't kill us makes us stronger.", author: "Friedrich Nietzsche" }
+        ];
 
-    const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+        const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
 
-    document.querySelector('article').innerHTML = `
-        <h1>${randomQuote.text}</h1>
-        <div>
+        document.querySelector('article').innerHTML = `
+            <h1>${randomQuote.text}</h1>
+            <div>
                 <p>&mdash; ${randomQuote.author}</p>
-        </div>
-    `;
+            </div>
+        `;
+    });
 </script>
