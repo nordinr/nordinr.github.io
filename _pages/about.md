@@ -1,5 +1,5 @@
 ---
-permalink: /year-archive/
+permalink: /
 title: "nordinr.github.io"
 author_profile: true
 redirect_from: 
