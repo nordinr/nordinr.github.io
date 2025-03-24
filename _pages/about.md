@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "nordinr.github.io"
+title: "Time is limited. But nothing is impossible ⚡️"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+##
 
 
 
