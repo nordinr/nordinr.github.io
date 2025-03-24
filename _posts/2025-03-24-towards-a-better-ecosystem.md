@@ -1,6 +1,6 @@
 ---
 title: 'Towards a Better Ecosystem'
-date: 2024-11-10
+date: 2025-03-24
 permalink: /posts/2025/03/towards-a-better-ecosystem/
 tags:
   - DevOps
