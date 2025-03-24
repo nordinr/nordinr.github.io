@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Here you are, on my site...
+Here you are, on my site...
 
 
 
