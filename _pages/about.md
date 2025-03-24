@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 ![windows](/images/kolla-openstack.png](https://media.licdn.com/dms/image/v2/D5616AQHmZilgpP5Gog/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733286232526?e=1748476800&v=beta&t=O32WCL-xPiWIN8yhA6jxLwdihxAkaY_CQp6RDCRBltM))
+
 Here you are, on my site... head to my blog posts for updates...
 
 
