@@ -17,7 +17,7 @@ Saya menceburkan diri dalam DevOps dengan pengetahuan yang sedikit tentang pemba
 
 ## Culture Lapuk
 
-Cabaran sebenar dalam DevOps adalah **"culture"** atau budaya yang diamalkan dalam sesebuah ekosistem. Bagi pengguna *'monolithic ecosystem'*, pasti sudah terbiasa menggunakan kaedah kuno *Files Transfer Protocol* (FTP) bagi memuat naik *updates* pada kod. Kebiasaan ini kadang-kala begitu berakar sehingga menjadi darah daging dalam proses pembangunan. Jesteru **Gi**t atau **Version Control** akan terlihat begitu *'alien*' dan pasti jika tidak dibiasakan dan diberikan kefahaman, sebahagian mungkin akan gagal menjadi sebahagian daripada pasukan DevOps. 
+Cabaran sebenar dalam DevOps adalah **"culture"** atau budaya yang diamalkan dalam sesebuah ekosistem. Bagi pengguna *'monolithic ecosystem'*, pasti sudah terbiasa menggunakan kaedah kuno *Files Transfer Protocol* (FTP) bagi memuat naik *updates* pada kod. Kebiasaan ini kadang-kala begitu berakar sehingga menjadi darah daging dalam proses pembangunan. Jesteru **Git** atau **Version Control** akan terlihat begitu *'alien*' dan pasti jika tidak dibiasakan dan diberikan kefahaman, sebahagian mungkin akan gagal menjadi sebahagian daripada pasukan DevOps. 
 
 Kita faham jika ini begitu dikagumi pada awal tahun 2000 dengan pelbagai inovasi bermula CLI kepada binary tools. Sebagai penggiat IT, kita perlu sedar bahawa teknologi akan sentiasa bergerak lebih pantas dan kita perlu terbuka dengan itu. 
 
