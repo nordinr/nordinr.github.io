@@ -8,7 +8,7 @@ redirect_from:
 ---
 ![windows](https://github.com/nordinr/nordinr/raw/master/assets/20240404_144639_banner.png)
 
-Here you are, on my site... head to my blog posts for updates...
+Here you are. Head to my blog posts for latest updates...
 
 
 
