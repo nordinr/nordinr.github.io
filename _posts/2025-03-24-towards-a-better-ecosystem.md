@@ -11,7 +11,7 @@ tags:
 ![DevOps](https://penguin-technology.com/wp-content/uploads/2023/09/devops-loop-2048x971.png)
 
 
-# **Towards a Better Ecosystem**
+# Towards a Better Ecosystem
 Saya menceburkan diri dalam DevOps dengan pengetahuan yang sedikit tentang pembangunan sistem. Amat sukar pada mulanya kerana membiasakan diri dalam bukan bidang kelayakan asli adalah sesuatu yang mencabar. Namun saya percaya dengan kemahuan, kegigihan dan usaha, tidak ada yang mustahil.
 
 
