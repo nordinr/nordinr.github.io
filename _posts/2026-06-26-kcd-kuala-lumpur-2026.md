@@ -1,5 +1,5 @@
 ---
-title: KCD Kuala Lumpur 2026
+title: "KCD Kuala Lumpur 2026: Our Problems Are Not Unique"
 date: 2026-06-27
 permalink: /posts/2026/06/kcd-kuala-lumpur-2026/
 tags:
@@ -11,7 +11,7 @@ tags:
 
 ![](/images/uploads/img_4436.jpeg "Reunion bersama kawan-kawan yang kita suka")
 
-# KCD Kuala Lumpur 2026: Isyarat Matangnya Komuniti Cloud Native Malaysia
+# KCD Kuala Lumpur 2026: Our Problems Are Not Unique
 
 Perjalanan ke Kuala Lumpur kali ini bukan sekadar menghadiri satu lagi acara teknologi. Kubernetes Community Day (KCD) Kuala Lumpur 2026 membawa makna yang lebih besar kerana ia menjadi sebahagian daripada gerakan komuniti cloud native tempatan yang semakin matang. Acara ini berlangsung pada 27 Jun 2026 di The iSpace @ Plaza Vads, TTDI, Kuala Lumpur, dari 9 pagi hingga 6 petang.
 
