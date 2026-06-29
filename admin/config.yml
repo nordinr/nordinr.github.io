@@ -1,0 +1,57 @@
+backend:
+  name: github
+  repo: nordinr/nordinr.github.io
+  branch: master
+  base_url: https://nordinr-cms-auth.nordinr.workers.dev
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+      - label: "Permalink"
+        name: "permalink"
+        widget: "string"
+        required: false
+        hint: "Example: /posts/2026/06/my-new-post/"
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+
+  - name: "projects"
+    label: "Projects"
+    folder: "_portfolio"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Excerpt"
+        name: "excerpt"
+        widget: "text"
+        required: false
+      - label: "External Link"
+        name: "link"
+        widget: "string"
+        required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
